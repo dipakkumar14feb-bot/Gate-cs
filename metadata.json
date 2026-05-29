@@ -1,0 +1,6 @@
+{
+  "name": "GATE CSE Smart Prep Platform",
+  "description": "An AI-powered preparation platform for GATE Computer Science with predictive syllabus trend matrices, dynamic test compilation, and interactive IIT Professor tutoring agents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
